@@ -1,0 +1,28 @@
+name: Southern Made
+favicon: null
+layout_spectrum: 0.34257710934616625
+typography_spectrum: 0.929435619385913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5351963308639824
+  lightness: 0.7269471832551062
+  saturation: 0.5963759114965796
+  rhythmicContrast: 0.7541427775286138
+purpose: []
